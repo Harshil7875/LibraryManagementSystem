@@ -1,0 +1,34 @@
+# Compiled class files
+bin/
+*.class
+
+# IntelliJ IDEA project files
+*.iml
+.idea/
+
+# VS Code project settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Data files (generated at runtime)
+data/Library_data.txt
+
+# Backup files
+*.bak
+*.tmp
+
+# Shell script temporary files
+*.swp
+*.swo
+
+# Compiled executables (if any)
+*.exe
+*.out
+
+# System-specific files
+Thumbs.db
